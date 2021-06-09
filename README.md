@@ -1,2 +1,3 @@
-# -_-
-作業
+# Perceptron
+
+For homework
